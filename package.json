@@ -1,5 +1,12 @@
 {
   "dependencies": {
     "discord.js": "discordjs/discord.js"
-  }
+  },
+  "name": "Saltycorp",
+  "version": "0.1.0",
+  "description": "Projet bot discord SaltyCorp",
+  "main": "main.js",
+  "repository": "https://github.com/JohanLechallier/Saltycorp-Botdiscord.git",
+  "author": "JohanLechallier <41397522+JohanLechallier@users.noreply.github.com>",
+  "license": "MIT"
 }
